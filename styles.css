@@ -80,6 +80,14 @@ body>* {
 
 }
 
+@media (max-width: 500px) {
+
+    #main-name {
+        font-size: 0.2em;
+    }
+
+}
+
 
 
 #resume-content {
